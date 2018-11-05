@@ -25,7 +25,7 @@ Time spent: 6 hours spent in total
   - [ ] GIF Walkthrough: <img src="https://github.com/wrongjun/websecurity_week_7/blob/master/large_file_xss.gif" width="800">
   - [ ] Steps to recreate: 
         1) upload over 20mb file with the name 
-        Dinosaurs secret life<img src=x onerror=alert(1)>.png
+        Dinosaurs secret life\<\i\m\g\ src\=x onerror=alert(1)\>\.png
         to the Media Library (as Editor or Administrator).
         2) Add this file to a post
         3)When user visit the page, the xss will be excuted.

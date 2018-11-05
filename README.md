@@ -38,7 +38,7 @@ Time spent: 6 hours spent in total
     - Vulnerability types: XSS
     - Tested in version:4.2
     - Fixed in version: 4.7.2
-  - [ ] GIF Walkthrough: <img src="https://github .com/wrongjun/websecurity_week_7/blob/master/xss_attack_media.gif" width="800">
+  - [ ] GIF Walkthrough: <img src="https://github.com/wrongjun/websecurity_week_7/blob/master/xss_attack_media.gif" width="700">
   - [ ] Steps to recreate: 
       https://www.securify.nl/advisory/SFY20160742/xss.mp3
       this mp3 is from https://seclists.org/oss-sec/2017/q1/563

